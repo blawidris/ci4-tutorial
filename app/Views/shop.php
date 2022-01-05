@@ -1,0 +1,1 @@
+<h2>This is product shop: <? echo $data['type'] ?> with id: <? echo $data['id'] ?></h2>
